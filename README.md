@@ -8,7 +8,11 @@ Credit Risk Modelling features:
 **Loan** : Loan Amount, Loan Purpose, Loan to Income Ratio, Days Past Due, Sanctioned Data
 
 **Project Scope**: To build our own score card where the created model will calculate the score & range those into following criterion: 
+
                                                                                                                                           > Poor
+                                                                                                                                          
                                                                                                                                           > Average
+                                                                                                                                          
                                                                                                                                           > Good 
+                                                                                                                                          
                                                                                                                                           > Excellent
