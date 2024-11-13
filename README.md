@@ -9,10 +9,14 @@ Credit Risk Modelling features:
 
 **Project Scope**: To build our own score card where the created model will calculate the score & range those into following criterion: 
 
-                                                                                                                                          > Poor
+     > Poor
+     
+     > Average
+     
+     > Good
+     
+     > Excellent
                                                                                                                                           
-                                                                                                                                          > Average
+                                                                                                                                                                                                                                                                        
                                                                                                                                           
-                                                                                                                                          > Good 
-                                                                                                                                          
-                                                                                                                                          > Excellent
+                                                                                                                                    
